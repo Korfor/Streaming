@@ -1,5 +1,5 @@
 # Streaming
-Nbatman44/streaming
+[Nbatman44/streaming](https://github.com/Nbatman44/streaming/wiki/Streaming)
 
 * **IMPORTANT** - Before using these sites, [**download a adblocker**.](https://tinyurl.com/y9f5hefg) You may also want to consider a [VPN,](https://tinyurl.com/y923yg5n) though this is only technically necessary if torrenting. If you're on Android consider using [Opera](https://tinyurl.com/yacfhvdp) as it has a built in adblocker and/or [Blokada.](https://tinyurl.com/yb7g3kg2) 
 
