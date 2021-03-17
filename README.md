@@ -1,13 +1,14 @@
 # Streaming
+
 [Nbatman44/streaming](https://github.com/Nbatman44/streaming/wiki/Streaming)
 
-* **IMPORTANT** - Before using these sites, [**download a adblocker**.](https://tinyurl.com/y9f5hefg) You may also want to consider a [VPN,](https://tinyurl.com/y923yg5n) though this is only technically necessary if torrenting. If you're on Android consider using [Opera](https://tinyurl.com/yacfhvdp) as it has a built in adblocker and/or [Blokada.](https://tinyurl.com/yb7g3kg2) 
+* **IMPORTANT** - Before using these sites, [**download a adblocker**.](https://tinyurl.com/y9f5hefg) You may also want to consider a [VPN,](https://tinyurl.com/y923yg5n) though this is only technically necessary if torrenting. If you're on Android consider using [Opera](https://tinyurl.com/yacfhvdp) as it has a built in adblocker and/or [Blokada.](https://tinyurl.com/yb7g3kg2)
 
 * [WhereYouWatch](https://tinyurl.com/y8opktgy) can be used to check if new movies have leaked, and what quality they have leaked in. Also check out the [Curated list of Pirate sites](https://tinyurl.com/y8c7tpax) which covers every topic related to piracy including games, comics, application suggestions and much more.
 
 * **Backups** - [Github](https://tinyurl.com/ybbskehm) and [Pastebin.](https://tinyurl.com/yceqw8cj)
 
-**1080p Streaming**
+## 1080p Streaming
 
 * [StreamCR](https://tinyurl.com/y8eaqdd7) - (Fast 1080p)
 * [LookMovie](https://tinyurl.com/y95z3flk) - (Fast 1080p)
@@ -23,15 +24,15 @@
 * [LeonFlix](https://tinyurl.com/y6vtutak) - (Streaming App, Download All Modules)
 * [Kodi](https://tinyurl.com/zymo4y7) (Streaming App) - [Setup guide](https://tinyurl.com/yanrp6tj) (Android compatible.)
 * Search Openload - [Ololo](https://ololo.to/), [Videospider](https://videospider.in), [Alluc](https://w1.alluc.uno), or [crawler](https://crawler.to)
-* *1080p Openload* - [MovieJagg](https://www.coolmoviejagg.pro), 
+* *1080p Openload* - [MovieJagg](https://www.coolmoviejagg.pro),
 [Vmovee](https://vmovee.ws),
-[UWatchfree](https://www.uwatchfree.tv), 
- [RainierLand](http://www.rainierland.is/), 
- [WatchFullMovie](http://watchfullmovie.co/), 
+[UWatchfree](https://www.uwatchfree.tv),
+ [RainierLand](http://www.rainierland.is/),
+ [WatchFullMovie](http://watchfullmovie.co/),
  [Megashare9](http://megashare9.su/),
  [OnMovies](https://onmovies.to/), [CineBloom](https://www2.cinebloom.com/), [Stream Likers](http://www.streamlikers.com), [QQMovies](http://qqmovies.co), [TopEuroPix](https://topeuropix.net)
 
-**720p Streaming**
+## 720p Streaming
 
 * [Streamm4u](http://streamm4u.tv/) - (Fast HD)
 * [123Moviesuk](https://www.123moviesuk.to) or [GOMovieshub](https://www.gomovieshub.se) - (HD, Lots of Servers)
@@ -62,16 +63,16 @@
 * [Tubi](https://tubitv.com/home) - (HD, Legal)
 * [Full YouTube Movies](https://bestonlinestreamingsite.blogspot.com/2017/10/youtube-movies-to-watch-full-lenght.html) - (Updated Weekly)
 * Search Openload - [Ololo](https://ololo.to/), [Videospider](https://videospider.in), [Alluc](https://w1.alluc.uno), or [crawler](https://crawler.to)
-* *720p Openload* - [Cine.to](https://cine.to), 
+* *720p Openload* - [Cine.to](https://cine.to),
  [123GoMovies](https://123gomovies.net),
- [HDVix](https://hdvix.com), 
+ [HDVix](https://hdvix.com),
  [MovieZion](https://www.nicemoviezion.pro/),
- [HDeuropix](https://hdeuropix.io/), 
- [Solarmoviefreez](http://solarmoviefreez.com/), 
- [ProSpice](https://prospice.surge.sh/), 
- [ILoveToWatch](https://ilovetowatch.online/), [123NetflixPro](https://www2.123netflix.pro), [TVMovies](https://tvmovies.to), [WatchFree.ac](https://www3.watchfree.ac/watchfree.html), [ddlhub](https://ddlhub.xyz), 
+ [HDeuropix](https://hdeuropix.io/),
+ [Solarmoviefreez](http://solarmoviefreez.com/),
+ [ProSpice](https://prospice.surge.sh/),
+ [ILoveToWatch](https://ilovetowatch.online/), [123NetflixPro](https://www2.123netflix.pro), [TVMovies](https://tvmovies.to), [WatchFree.ac](https://www3.watchfree.ac/watchfree.html), [ddlhub](https://ddlhub.xyz),
 
-**Big Media Libraries** (Find rare & obscure content)
+## Big Media Libraries (Find rare & obscure content)
 
 * Search Openload - [Ololo](https://ololo.to/), [Videospider](https://videospider.in), [Alluc](https://w1.alluc.uno), or [crawler](https://crawler.to)
 * [filechef](http://filechef.com) - (Search Direct Downloads)
@@ -85,13 +86,13 @@
 * [Putlockertv](https://www2.putlockertv.to/) - (Huge Movie/TV Library)
 * [Putlockeri](https://putlockeri.club) - (Huge Movie Library)
 * [Los-Movies](http://los-movies.com/) - (Huge Movie/TV Library)
-* [Putlocker.onl](https://www3.putlocker.onl/) - (Huge Movie/TV Library) 
+* [Putlocker.onl](https://www3.putlocker.onl/) - (Huge Movie/TV Library)
 * [Putlockerfreely](https://putlockerfreely.online/watch/rampage-full-movie-online-1-8911.html) - (Huge Movie/TV Library)
 * [123Movies.ooo](https://123movies.ooo) - (Huge Movie/TV Library)
 * [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - (All Streaming Subreddits)
 * [Youtube](http://youtube.com/) - (YouTube has *tons* of extremely obscure movies.)
 
-**TV & Sports Streaming**
+## TV & Sports Streaming
 
 * [TVZion](https://www.nicetvzion.pro/) or [TVRaven](https://www.onetvraven.pro/) - (720p TV Only)
 * [WatchSeries](http://dwatchseries.to/) - (Huge TV Library)
@@ -122,7 +123,7 @@
 * [r/MMAFights](https://www.reddit.com/r/mmafights/) - (MMA Videos)
 * *Sports Streaming Subbreddits* - [NFL](https://www.reddit.com/r/nflstreams/), [NBA](https://www.reddit.com/r/nbastreams/), [MLB](https://www.reddit.com/r/MLBStreams/), [NFL](https://www.reddit.com/r/NHLStreams/), [Soccer](https://www.reddit.com/r/soccerstreams/), [MMA](https://www.reddit.com/r/MMAStreams/), [NCAA Basketball](https://www.reddit.com/r/ncaaBBallStreams/), [CFB](https://www.reddit.com/r/CFBStreams/), [WWE](https://www.reddit.com/r/WWEstreams/), [Rugby](https://www.reddit.com/r/rugbystreams/)
 
-**Anime & Cartoon Streaming**
+## Anime & Cartoon Streaming
 
 * [Monimo](https://monimoapp.netlify.com) (Anime Streaming App)
 * [Masterani](https://www.masterani.me/) - (1080p Anime)
@@ -159,7 +160,7 @@
 * [AnimeWorldBD](https://animeworldbd.com) - (720p anime)
 * [Club Anime](http://clubani.me) - (720p anime)
 * [AnimePie](https://www.animepie.to/index) - (720p anime)
-* [SGAnime](https://sganime.org) - (720p anime) 
+* [SGAnime](https://sganime.org) - (720p anime)
 * [DarkAnime](https://darkanime.stream) - (720p anime)
 * [Cartoon Crazy](https://www.cartooncrazy.tv) - (Cartoons & Anime)
 * [Pixa](https://tinyurl.com/yco62uop) - (Big Cartoon Library)
@@ -172,7 +173,7 @@
 * [WatchCartoonsOnline](https://watchcartoonsonline.la) - (Big Cartoon Library)
 * [Toonova](https://tinyurl.com/ybxvn3ad) - (Big Cartoon Library)
 
-**Specialty Sites**
+## Specialty Sites
 
 * [Rulu](https://www.rulu.co/) - (Youtube Red Series)
 * [Club MST3k](http://www.club-mst3k.com/) - (Every episode of MST3K)
@@ -198,15 +199,15 @@
 * [Danimados](https://danimados.com) - (HD, Espanol Only)
 * [Cuevana2](https://www.cuevana2.com) - (HD, Espanol Only)
 
-**Android Streaming**
+## Android Streaming
 
-* Note - Android Streaming Apks Work On PC/Mac via emulators like [NoxPlayer.](https://www.bignox.com) [Opera](https://www.opera.com/mobile/android) has a built in adblocker which makes using streaming sites on android easier. You can also try the android adblocker app [Blokada.](https://blokada.org/index.html) 
+* Note - Android Streaming Apks Work On PC/Mac via emulators like [NoxPlayer.](https://www.bignox.com) [Opera](https://www.opera.com/mobile/android) has a built in adblocker which makes using streaming sites on android easier. You can also try the android adblocker app [Blokada.](https://blokada.org/index.html)
 * Android Streaming Apps - [FreeFlixHQ](https://freeflixhq.com/), [Mobdro (Live TV)](https://mobdroapk.org/), [CRowns Lite](https://oneboxhdappapk.com/crowns-vod-pro-lite-apk/), [Kokotime](https://www.kokotime.tv/), [Showbox](https://showboxbuzz.com/showbox-apk-download), [Cinema Box](http://cinemaboxhd.com/cinema-box-apk/), [TeaTV](https://teatv.net/teatv-apk-download/), [OneBox HD](https://oneboxhd.org/onebox-hd-apk/), [Cinema HD Movies](https://cinemaapk.com/), [Bobby Movie](https://rawapk.com/bobby-movie-box-apk-download/), [TheMovieDB](https://themoviedb.net/download/), [TVZion](https://tvzion.en.aptoide.com/), [MegaBox HD](https://megabox-hd.en.uptodown.com/android), [Cinema TV](http://www.appcreator24.com/app465118)
 * [Android Movie Apps](https://aapks.com/apps/movie/) - (Full List)
 
-**Direct Download Streaming**
+## Direct Download Streaming
 
-* You can stream any direct download with [VLC](https://www.videolan.org/vlc/index.html) or [MPC.](https://mpc-hc.org/) 
+* You can stream any direct download with [VLC](https://www.videolan.org/vlc/index.html) or [MPC.](https://mpc-hc.org/)
 
 * [filechef](http://filechef.com) - (Search Direct Downloads)
 
@@ -216,11 +217,11 @@
 
 * [Download Sites](https://pastebin.com/raw/GBRZSVK4) - (Full List)
 
-* *Megalink Download Sites* - [Megalink Forum](https://forum.snahp.it/) & [r/Megalinks.](https://www.reddit.com/r/megalinks/) You can stream Megalink files with [Megasync.](https://mega.nz/sync) Select the gear icon, stream, public link, paste, choose app & enjoy. 
+* *Megalink Download Sites* - [Megalink Forum](https://forum.snahp.it/) & [r/Megalinks.](https://www.reddit.com/r/megalinks/) You can stream Megalink files with [Megasync.](https://mega.nz/sync) Select the gear icon, stream, public link, paste, choose app & enjoy.
 
-**Torrent Streaming** (Get a [**VPN**](https://www.techradar.com/vpn/the-best-vpn-for-streaming) before torrenting or using any of the applications below.) 
+**Torrent Streaming** (Get a [**VPN**](https://www.techradar.com/vpn/the-best-vpn-for-streaming) before torrenting or using any of the applications below.)
 
-* If you don't want to pay for a VPN, use [Opera](https://www.opera.com/) web browser. It has a free built in VPN you can turn on in the options. Once the VPN is active use [Instant.io](https://instant.io) to stream torrents on your web browser. 
+* If you don't want to pay for a VPN, use [Opera](https://www.opera.com/) web browser. It has a free built in VPN you can turn on in the options. Once the VPN is active use [Instant.io](https://instant.io) to stream torrents on your web browser.
 * [Popcorn Time](https://popcorntime.sh/) - (Torrent Streaming App) (Android compatible.)
 * [Stremio](http://www.stremio.com) - (Torrent Streaming App) (*Get All Available Add-Ons!*)
 * You can automatically stream any Magnet Link or .Torrent File from the sites below by pasting them into [Sodaplayer](https://www.sodaplayer.com/), [Webtorrent/Instant.io,](https://webtorrent.io/desktop/) or [BitLord.](http://www.bitlord.com) Popcorn Time & Streamio have this feature as well.
